@@ -29,8 +29,8 @@ Hi there 👋<h2> I'm Takahiro Sasaki</h2>
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
-<p align="center">
-<a href="https://sonorous-folio-411705.web.app/"><img alt="Website" src="https://img.shields.io/badge/sonorous--folio--411705.web.app-black?style=flat-square&logo=google-chrome"></a>
+<p align="left">
+<a href="https://sonorous-folio-411705.web.app/"><img alt="MyProfileWebsite" src="https://img.shields.io/badge/sonorous--folio--411705.web.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/takahiro-sasaki-463ab1273/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Takahiro%20Sasaki-blue?style=flat-square&logo=linkedin"></a>
 
