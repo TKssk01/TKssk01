@@ -27,7 +27,7 @@ Hi there 👋<h2> I'm Takahiro Sasaki</h2>
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <p align="left">
-<a href="https://takahiro-sasaki.web.app/"><img alt="MyProfileWebsite" src="https://img.shields.io/badge/My Portfolio Website&logo=google-chrome"></a>
+<a href="https://takahiro-sasaki.web.app/"><img alt="MyProfileWebsite" src="https://img.shields.io/badge/My Portfolio Website"></a>
 
 <a href="https://www.linkedin.com/in/takahiro-sasaki-463ab1273/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Takahiro%20Sasaki-blue?style=flat-square&logo=linkedin"></a>
 
