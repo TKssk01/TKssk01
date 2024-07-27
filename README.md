@@ -11,7 +11,9 @@ Hi there 👋<h2> I'm Takahiro Sasaki</h2>
 
 <h3>🛠 Tech Stack</h3>
 💻   HTML | CSS | JavaScript | TypeScript | Three.js | Python | Java | C | MySQL | 
+<hr>
 🌐   React | Django | Next.js | Express
+<hr>
 🔧   GCP | AWS | Docker | Kubernetes
 <hr>
 <br/><br/>
