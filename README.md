@@ -10,9 +10,9 @@ Hi there 👋<h2> I'm Takahiro Sasaki</h2>
 ✍️   Pursuing Web Development as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
-💻   HTML | CSS | JavaScript | TypeScript | Three.js | Python | Java | C | MySQL<br>
-🌐   React | Django | Next.js | Express<br>
-🔧   GCP | AWS | Docker | Kubernetes
+💻   HTML | CSS | JavaScript | TypeScript | Three.js | Python | Go | Java | PHP | MySQL<br>
+🌐   React | Remix | Django | Next.js | Express<br>
+🔧   GCP | AWS | Node.js | Docker | Kubernetes
 
 <br/><br/>
 
