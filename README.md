@@ -1,13 +1,12 @@
-Hi there 👋<h2> I'm Takahiro Sasaki</h2>
+Hi there 👋<h2> I'm Takahiro Sasaki - Full Stack Engineer</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3> 👨🏻‍💻 About Me </h3>
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 
-🎓   Bachelor’s degree in Information Technology from Keio University, currently pursuing a Master’s degree in International Business at HULT International Business School.
+🎓   Bachelor’s degree in Information Technology from Keio University, currently pursuing a Master’s degree in International Business at HULT Business School.
 
-🌱   Learning about Cloud Tech, Systems Design.
+🌱   Focusing on full stack development.
 
-✍️   Pursuing Web Development as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 💻   HTML | CSS | JavaScript | TypeScript | Three.js | Python | Go | Java | PHP | MySQL<br>
