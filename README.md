@@ -1,11 +1,11 @@
 <h2>TKS - Full Stack Engineer</h2>
 <!-- <img align='right' src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="350"> -->
 <h3> 👨🏻‍💻 About Me </h3>
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-
-🎓   Bachelor’s degree in Information Technology from Keio University, currently pursuing a Master’s degree in International Business at HULT Business School.
-
-🌱   Focusing on full stack development.
+Bachelor’s degree in Computer Science from Keio University, currently pursuing a Master’s degree in Business Analytics at HULT Business School.
+<br/><br/>
+Exploring new technologies and developing software solutions and quick hacks.
+<br/><br/>
+Focusing on full stack development.
 
 <img align='right' src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="350">
 <h3>🛠 Tech Stack</h3>
@@ -16,8 +16,7 @@
 <br/><br/>
 
 
-<br/>
-<br/>
+<br/><br/>
 
 <br><br>
 
