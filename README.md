@@ -7,7 +7,7 @@
 
 🌱   Focusing on full stack development.
 
-<img align='right' src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="230">
+<img align='right' src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="350">
 <h3>🛠 Tech Stack</h3>
 💻   HTML | CSS | JavaScript | TypeScript | Three.js | Python | Go | Java | PHP | MySQL<br>
 🌐   React | Remix | Next.js | Express.js | Django | FastAPI<br>
