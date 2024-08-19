@@ -11,7 +11,7 @@ Focusing on full stack development.
 <h3>🛠 Tech Stack</h3>
 💻   HTML | CSS | JavaScript | TypeScript | Node.js | Python | Go | Java | PHP | MySQL<br>
 🌐   React | Remix | Next.js | Three.js | Express.js | Django | FastAPI<br>
-🔧   GCP | AWS | Node.js | Docker | Kubernetes
+🔧   GCP | AWS | Docker | Kubernetes
 
 <br/><br/>
 
